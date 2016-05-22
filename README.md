@@ -1,2 +1,2 @@
 # botnet-pushdo
-# I will update when i ca
+# I will update when i can
