@@ -1,2 +1,4 @@
 # botnet-pushdo
-# I will update when i can
+# Symptoms
+
+info: found invalid helo 'ylmf-pc' - is immediatly blocked by invalidHeloRe
