@@ -1,4 +1,8 @@
-# botnet-pushdo
-# Symptoms
+# [Botnet - found invalid helo]
+### [found invalid helo]
+#### [Updated every 2~3 hours]
 
-info: found invalid helo 'ylmf-pc' - is immediatly blocked by invalidHeloRe
+# [Counting 133 IPs]
+
+# [Symptoms] 
+###   [invalid helo] [ylmf-pc]
